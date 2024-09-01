@@ -1,0 +1,102 @@
+[
+    {
+      "id": 98,
+      "title": "Web Development Fundamentals for Beginners",
+      "type": "web",
+      "description": "Learn the basics of web development and HTML, CSS, and JavaScript.",
+      "url": "https://example.com/web-development-fundamentals-beginners",
+      "likes": 500,
+      "subscribes": 250,
+      "views": 5000
+    },
+    {
+      "id": 99,
+      "title": "Web Design Principles and Practices",
+      "type": "web",
+      "description": "Discover the principles and practices of web design, including user experience and accessibility.",
+      "url": "https://example.com/web-design-principles-practices",
+      "likes": 480,
+      "subscribes": 240,
+      "views": 4800
+    },
+    {
+      "id": 100,
+      "title": "Web Development with HTML, CSS, and JavaScript",
+      "type": "web",
+      "description": "Learn how to build web applications using HTML, CSS, and JavaScript.",
+      "url": "https://example.com/web-development-html-css-javascript",
+      "likes": 460,
+      "subscribes": 230,
+      "views": 4600
+    },
+    {
+      "id": 101,
+      "title": "Web Security and Best Practices",
+      "type": "web",
+      "description": "Discover how to secure your web applications and follow best practices.",
+      "url": "https://example.com/web-security-best-practices",
+      "likes": 440,
+      "subscribes": 220,
+      "views": 4400
+    },
+    {
+      "id": 102,
+      "title": "Web Performance Optimization Techniques",
+      "type": "web",
+      "description": "Learn how to optimize the performance of your web applications.",
+      "url": "https://example.com/web-performance-optimization-techniques",
+      "likes": 420,
+      "subscribes": 210,
+      "views": 4200
+    },
+    {
+      "id": 103,
+      "title": "Web Accessibility and Inclusive Design",
+      "type": "web",
+      "description": "Discover how to make your web applications accessible and inclusive.",
+      "url": "https://example.com/web-accessibility-inclusive-design",
+      "likes": 400,
+      "subscribes": 200,
+      "views": 4000
+    },
+    {
+      "id": 104,
+      "title": "Web Development Frameworks and Libraries",
+      "type": "web",
+      "description": "Learn about popular web development frameworks and libraries like React, Angular, and Vue.js.",
+      "url": "https://example.com/web-development-frameworks-libraries",
+      "likes": 380,
+      "subscribes": 190,
+      "views": 3800
+    },
+    {
+      "id": 105,
+      "title": "Web APIs and Data Integration",
+      "type": "web",
+      "description": "Discover how to work with web APIs and integrate data into your web applications.",
+      "url": "https://example.com/web-apis-data-integration",
+      "likes": 360,
+      "subscribes": 180,
+      "views": 3600
+    },
+    {
+      "id": 106,
+      "title": "Web Deployment and Hosting Options",
+      "type": "web",
+      "description": "Learn about web deployment and hosting options, including cloud hosting and serverless architecture.",
+      "url": "https://example.com/web-deployment-hosting-options",
+      "likes": 340,
+      "subscribes": 170,
+      "views": 3400
+    },
+    {
+      "id": 107,
+      "title": "Web Development Trends and Future Directions",
+      "type": "web",
+      "description": "Explore the latest trends and future directions in web development.",
+      "url": "https://example.com/web-development-trends-future-directions",
+      "likes": 320,
+      "subscribes": 160,
+      "views": 3200
+    }
+  ]

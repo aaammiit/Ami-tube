@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "title": "Python Basics for Beginners",
+      "type": "python",
+      "description": "Learn the fundamentals of Python programming.",
+      "url": "https://example.com/python-basics-beginners",
+      "likes": 500,
+      "subscribes": 250,
+      "views": 5000
+    },
+    {
+      "id": 2,
+      "title": "Data Science with Python",
+      "type": "python",
+      "description": "Discover how to use Python for data science and machine learning.",
+      "url": "https://example.com/data-science-python",
+      "likes": 480,
+      "subscribes": 240,
+      "views": 4800
+    },
+    {
+      "id": 3,
+      "title": "Python Web Development with Flask",
+      "type": "python",
+      "description": "Learn how to build web applications using Flask and Python.",
+      "url": "https://example.com/python-web-development-flask",
+      "likes": 460,
+      "subscribes": 230,
+      "views": 4600
+    },
+    {
+      "id": 4,
+      "title": "Python for Data Analysis",
+      "type": "python",
+      "description": "Learn how to use Python for data analysis and visualization.",
+      "url": "https://example.com/python-data-analysis",
+      "likes": 440,
+      "subscribes": 220,
+      "views": 4400
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning with Python",
+      "type": "python",
+      "description": "Discover how to use Python for machine learning and AI.",
+      "url": "https://example.com/machine-learning-python",
+      "likes": 420,
+      "subscribes": 210,
+      "views": 4200
+    },
+    {
+      "id": 6,
+      "title": "Python Automation and Scripting",
+      "type": "python",
+      "description": "Learn how to automate tasks and scripts using Python.",
+      "url": "https://example.com/python-automation-scripting",
+      "likes": 400,
+      "subscribes": 200,
+      "views": 4000
+    },
+    {
+      "id": 7,
+      "title": "Python Best Practices and Coding Standards",
+      "type": "python",
+      "description": "Learn about best practices and coding standards for Python development.",
+      "url": "https://example.com/python-best-practices-coding-standards",
+      "likes": 380,
+      "subscribes": 190,
+      "views": 3800
+    },
+    {
+      "id": 8,
+      "title": "Python for Scientific Computing",
+      "type": "python",
+      "description": "Discover how to use Python for scientific computing and research.",
+      "url": "https://example.com/python-scientific-computing",
+      "likes": 360,
+      "subscribes": 180,
+      "views": 3600
+    },
+    {
+      "id": 9,
+      "title": "Python GUI Programming with Tkinter",
+      "type": "python",
+      "description": "Learn how to build GUI applications using Tkinter and Python.",
+      "url": "https://example.com/python-gui-programming-tkinter",
+      "likes": 340,
+      "subscribes": 170,
+      "views": 3400
+    },
+    {
+      "id": 10,
+      "title": "Python Advanced Topics and Concepts",
+      "type": "python",
+      "description": "Explore advanced topics and concepts in Python programming.",
+      "url": "https://example.com/python-advanced-topics-concepts",
+      "likes": 320,
+      "subscribes": 160,
+      "views": 3200
+    }
+  ]

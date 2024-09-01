@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "title": "Marketing Strategies for Startups",
+      "type": "business",
+      "description": "Learn effective marketing strategies for startup businesses.",
+      "url": "https://example.com/marketing-strategies-startups",
+      "likes": 500,
+      "subscribes": 250,
+      "views": 5000
+    },
+    {
+      "id": 2,
+      "title": "Financial Planning for Entrepreneurs",
+      "type": "business",
+      "description": "Discover how to manage your finances as an entrepreneur.",
+      "url": "https://example.com/financial-planning-entrepreneurs",
+      "likes": 480,
+      "subscribes": 240,
+      "views": 4800
+    },
+    {
+      "id": 3,
+      "title": "Effective Leadership Skills",
+      "type": "business",
+      "description": "Develop the leadership skills you need to succeed in business.",
+      "url": "https://example.com/effective-leadership-skills",
+      "likes": 460,
+      "subscribes": 230,
+      "views": 4600
+    },
+    {
+      "id": 4,
+      "title": "E-commerce Website Optimization",
+      "type": "business",
+      "description": "Learn how to optimize your e-commerce website for maximum sales.",
+      "url": "https://example.com/e-commerce-website-optimization",
+      "likes": 440,
+      "subscribes": 220,
+      "views": 4400
+    },
+    {
+      "id": 5,
+      "title": "Time Management for Productivity",
+      "type": "business",
+      "description": "Discover how to manage your time effectively to increase productivity.",
+      "url": "https://example.com/time-management-productivity",
+      "likes": 420,
+      "subscribes": 210,
+      "views": 4200
+    },
+    {
+      "id": 6,
+      "title": "Building a Successful Sales Team",
+      "type": "business",
+      "description": "Learn how to build and manage a successful sales team.",
+      "url": "https://example.com/building-successful-sales-team",
+      "likes": 400,
+      "subscribes": 200,
+      "views": 4000
+    },
+    {
+      "id": 7,
+      "title": "Digital Marketing Trends",
+      "type": "business",
+      "description": "Stay up-to-date with the latest digital marketing trends.",
+      "url": "https://example.com/digital-marketing-trends",
+      "likes": 380,
+      "subscribes": 190,
+      "views": 3800
+    },
+    {
+      "id": 8,
+      "title": "Entrepreneurial Mindset Development",
+      "type": "business",
+      "description": "Develop the mindset you need to succeed as an entrepreneur.",
+      "url": "https://example.com/entrepreneurial-mindset-development",
+      "likes": 360,
+      "subscribes": 180,
+      "views": 3600
+    },
+    {
+      "id": 9,
+      "title": "Business Plan Creation",
+      "type": "business",
+      "description": "Learn how to create a comprehensive business plan.",
+      "url": "https://example.com/business-plan-creation",
+      "likes": 340,
+      "subscribes": 170,
+      "views": 3400
+    },
+    {
+      "id": 10,
+      "title": "Customer Service Strategies",
+      "type": "business",
+      "description": "Discover effective customer service strategies to improve customer satisfaction.",
+      "url": "https://example.com/customer-service-strategies",
+      "likes": 320,
+      "subscribes": 160,
+      "views": 3200
+    }
+  ]

@@ -1,0 +1,28 @@
+{% extends 'index.html'%}
+{% block content %}
+<div class="d-flex flex-wrap" style="gap: 10px;">
+    {% for i in data %}
+    <div class="card bg-dark text-light mb-3 px-2 py-2" style="max-width: 480px; max-height: 500px; flex: 1 1 30%;border: 1px solid rgb(106, 104, 104);">
+        <video width="90%" height="180" controls poster="{{i.video.thumbnail}}" crossorigin="anonymous">
+            <source src="{{i.video.url}}" type="video/mp4/WebM/Ogg" >
+            Your browser does not support the video tag.
+        </video>
+        <div class="card-body">
+            <h5 class="card-title text-light">{{i.video.title}}</h5>
+            <div class="d-flex" style="gap: 10px;">
+                <p class="card-text text-light">{{i.director}}</p>
+                <p class="card-text text-light">{{i.video.author}}</p>
+                <p class="card-text text-light">{{i.language|truncatechars:3}}</p>
+            </div>
+            <div class="d-flex" style="gap: 20px;">
+                <p class="card-text text-light"><i class="fa-regular fa-thumbs-up" style="color: #f5f7f9;"></i> {{i.video.likes}} </p>
+                
+                <p class="card-text text-light"><i class="fa-regular fa-eye" style="color: #fcfcfd;"></i> {{i.video.views}}</p>
+            </div>
+            <!-- <p target='_blank' class="card-text text-light">
+                <abbr title="{{i.plot}}" style="text-decoration: none;font-size: 15px;">{{i.plot|truncatechars:30}}</abbr></p> -->
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{%endblock%}

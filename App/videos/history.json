@@ -1,0 +1,22 @@
+[
+    {
+        "id": 4,
+        "title": "Marketing Strategies for Startups",
+        "type": "business",
+        "description": "Learn effective marketing strategies for your startup.",
+        "url": "https://example.com/marketing-strategies",
+        "likes": 150,
+        "subscribes": 75,
+        "views": 1500
+    },
+    {
+        "id": 4,
+        "title": "Marketing Strategies for Startups",
+        "type": "business",
+        "description": "Learn effective marketing strategies for your startup.",
+        "url": "https://example.com/marketing-strategies",
+        "likes": 150,
+        "subscribes": 75,
+        "views": 1500
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+      "video": {
+        "title": "Introduction to Machine Learning",
+        "author": "Andrew Ng",
+        "url": "https://example.com/videos/machine_learning_intro.mp4",
+        "thumbnail": "https://example.com/thumbnails/machine_learning_intro.jpg",
+        "likes": 100,
+        "views": 5000
+      },
+      "language": "English",
+      "director": "Stanford University"
+    },
+    {
+      "video": {
+        "title": "Python Programming Basics",
+        "author": "Traversy Media",
+        "url": "https://example.com/videos/python_basics.mp4",
+        "thumbnail": "https://example.com/thumbnails/python_basics.jpg",
+        "likes": 50,
+        "views": 2000
+      },
+      "language": "English",
+      "director": "Brad Traversy"
+    },
+    {
+      "video": {
+        "title": "Data Structures and Algorithms",
+        "author": "MIT OpenCourseWare",
+        "url": "https://example.com/videos/data_structures.mp4",
+        "thumbnail": "https://example.com/thumbnails/data_structures.jpg",
+        "likes": 200,
+        "views": 10000
+      },
+      "language": "English",
+      "director": "MIT University"
+    },
+    {
+      "video": {
+        "title": "Introduction to Artificial Intelligence",
+        "author": "Google AI",
+        "url": "https://example.com/videos/ai_intro.mp4",
+        "thumbnail": "https://example.com/thumbnails/ai_intro.jpg",
+        "likes": 150,
+        "views": 8000
+      },
+      "language": "English",
+      "director": "Google AI Team"
+    },
+    {
+      "video": {
+        "title": "Web Development Fundamentals",
+        "author": "FreeCodeCamp",
+        "url": "https://example.com/videos/web_dev_fundamentals.mp4",
+        "thumbnail": "https://example.com/thumbnails/web_dev_fundamentals.jpg",
+        "likes": 80,
+        "views": 4000
+      },
+      "language": "English",
+      "director": "FreeCodeCamp"
+    },
+    {
+      "video": {
+        "title": "Database Systems",
+        "author": "University of Michigan",
+        "url": "https://example.com/videos/database_systems.mp4",
+        "thumbnail": "https://example.com/thumbnails/database_systems.jpg",
+        "likes": 120,
+        "views": 6000
+      },
+      "language": "English",
+      "director": "University of Michigan"
+    },
+    {
+      "video": {
+        "title": "Computer Networks",
+        "author": "NPTEL",
+        "url": "https://example.com/videos/computer_networks.mp4",
+        "thumbnail": "https://example.com/thumbnails/computer_networks.jpg",
+        "likes": 90,
+        "views": 5000
+      },
+      "language": "English",
+      "director": "NPTEL"
+    },
+    {
+      "video": {
+        "title": "Operating System Concepts",
+        "author": "Harvard University",
+        "url": "https://example.com/videos/os_concepts.mp4",
+        "thumbnail": "https://example.com/thumbnails/os_concepts.jpg",
+        "likes": 110,
+        "views": 7000
+      },
+      "language": "English",
+      "director": "Harvard University"
+    },
+    {
+      "video": {
+        "title": "Software Engineering",
+        "author": "University of California",
+        "url": "https://example.com/videos/software_engineering.mp4",
+        "thumbnail": "https://example.com/thumbnails/software_engineering.jpg",
+        "likes": 130,
+        "views": 9000
+      },
+      "language": "English",
+      "director": "University of California"
+    }
+  ]

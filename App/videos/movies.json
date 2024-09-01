@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "type": "movie",
+    "description": "Highly rated drama film about hope and redemption.",
+    "url": "https://example.com/shawshank-redemption",
+    "likes": 500,
+    "subscribes": 250,
+    "views": 5000
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "type": "movie",
+    "description": "Crime drama film about the world of organized crime.",
+    "url": "https://example.com/the-godfather",
+    "likes": 480,
+    "subscribes": 240,
+    "views": 4800
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "type": "movie",
+    "description": "Superhero thriller film about Batman and the Joker.",
+    "url": "https://example.com/the-dark-knight",
+    "likes": 460,
+    "subscribes": 230,
+    "views": 4600
+  },
+  {
+    "id": 4,
+    "title": "12 Angry Men",
+    "type": "movie",
+    "description": "Drama film about a jury deliberating the fate of a young man.",
+    "url": "https://example.com/12-angry-men",
+    "likes": 440,
+    "subscribes": 220,
+    "views": 4400
+  },
+  {
+    "id": 5,
+    "title": "Schindler's List",
+    "type": "movie",
+    "description": "Historical drama film about the Holocaust.",
+    "url": "https://example.com/schindlers-list",
+    "likes": 420,
+    "subscribes": 210,
+    "views": 4200
+  },
+  {
+    "id": 6,
+    "title": "The Lord of the Rings: The Return of the King",
+    "type": "movie",
+    "description": "Fantasy adventure film about the quest to destroy the One Ring.",
+    "url": "https://example.com/lord-of-the-rings-return-of-the-king",
+    "likes": 400,
+    "subscribes": 200,
+    "views": 4000
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "type": "movie",
+    "description": "Crime film with a non-linear storyline.",
+    "url": "https://example.com/pulp-fiction",
+    "likes": 380,
+    "subscribes": 190,
+    "views": 3800
+  },
+  {
+    "id": 8,
+    "title": "The Matrix",
+    "type": "movie",
+    "description": "Science fiction film about a simulated reality.",
+    "url": "https://example.com/the-matrix",
+    "likes": 360,
+    "subscribes": 180,
+    "views": 3600
+  },
+  {
+    "id": 9,
+    "title": "Forrest Gump",
+    "type": "movie",
+    "description": "Drama film about a man with a low IQ who finds himself in the middle of significant historical events.",
+    "url": "https://example.com/forrest-gump",
+    "likes": 340,
+    "subscribes": 170,
+    "views": 3400
+  },
+  {
+    "id": 10,
+    "title": "Inception",
+    "type": "movie",
+    "description": "Science fiction action film about dream-sharing technology.",
+    "url": "https://example.com/inception",
+    "likes": 320,
+    "subscribes": 160,
+    "views": 3200
+  }
+]
